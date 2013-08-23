@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name = "audio_player"
-  s.version = "1.0.1"
+  s.version = "1.0.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 1.3.6") if s.respond_to? :required_rubygems_version=
   s.authors = ["pjc0247"]
@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.rubyforge_project = "audio_player"
   s.rubygems_version = "1.8.25"
   s.summary = "macro functionset"
-  s.files = Dir["{src}/*.rb"]
+  s.files = Dir["{lib}/*.rb"]
   
   if s.respond_to? :specification_version then
     s.specification_version = 3
