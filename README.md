@@ -10,7 +10,7 @@ Installation
 -----------
     gem install audio_player
 
-Examples
+Example
 -----------
 
     require 'audio_player'
