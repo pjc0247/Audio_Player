@@ -1,6 +1,6 @@
 # audio_player.rb
 #
-#   written by pjc0247
+#   pjc0247@naver.com
 #
 
 require 'win32api'
